@@ -19,7 +19,7 @@ module.exports = {
     config.plugins.push(tsconfigPaths.default());
 
     if (configType === 'PRODUCTION') {
-      config.base = '/WebSite-DF-WebDesign'
+      config.base = '/WebSite-DF-WebDesign';
     }
 
     return config
