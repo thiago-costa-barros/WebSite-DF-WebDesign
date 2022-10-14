@@ -15,9 +15,7 @@ module.exports = {
   "features": {
     "storyStoreV7": true
   },
-  async viteFinal(config, { configType }) {
-    config.plugins.push(tsconfigPaths.default());
-
+  viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
       config.base = '/WebSite-DF-WebDesign';
     }
