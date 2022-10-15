@@ -1,4 +1,4 @@
-import { LogoDF } from './logoDF';
+import { LogoDF } from './LogoDF';
 import './styles/global.css';
 import { Text } from './components/Text';
 import { TextInput } from './components/TextInput';
