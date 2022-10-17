@@ -6,3 +6,5 @@ Criado a partir dos estudos no Ignite Lab da Rocketseat
 https://thiago-costa-barros.github.io/WebSite-DF-WebDesign/
 
 ## Framework React + Vite
+
+### Tailwind/PostCSS
