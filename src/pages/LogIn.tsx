@@ -54,7 +54,7 @@ export function LogIn() {
                     <a href='' className='underline hover:text-gray-300'>Esqueceu sua senha?</a>
                 </Text>
                 <Text asChild size='sm' className='text-gray-900'>
-                    <a href='' className='underline hover:text-gray-300'>Não possui conta? Crie uma agora!</a>
+                    <a href='src\pages\SignIn.html' className='underline hover:text-gray-300'>Não possui conta? Crie uma agora!</a>
                 </Text>
             </footer>
         </div >
